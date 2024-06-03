@@ -7,6 +7,6 @@ There are default table size values in HTML-page. You can change them, but value
 
 This program was built using [GitHub Pages](https://eduardsuyargulov.github.io/RandomColorTableJS/).
 
-/demonstration.png
+![Demonstration Screen](/demonstration.png)
 
 Created for personal use in 03.06.2024. HTML-page contains interface in Russian. You can change page language in your browser.
